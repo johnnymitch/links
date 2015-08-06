@@ -17,6 +17,9 @@
 - http://designmodo.com/qards/
 - http://fbrctr.github.io
 
+### Animation frameworks
+- http://codyhouse.co/gem/css-animated-headlines/
+
 ### Backend frameworks
 
 ### Productivity
