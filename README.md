@@ -53,3 +53,6 @@
 - https://open.bufferapp.com/buffer-open-equity-formula/
 
 ### Business
+
+### Mailing lists
+- http://forum.webflow.com/t/mailchimp-signup-form-integration/1331
